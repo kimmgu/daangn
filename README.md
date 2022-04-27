@@ -26,8 +26,7 @@
 
 ---
 
-# 당근마켓 클론 코딩
+# [![당근마켓](https://d1unjqcospf8gs.cloudfront.net/assets/home/base/header/logo-basic-24b18257ac4ef693c02233bf21e9cb7ecbf43ebd8d5b40c24d99e14094a44c81.svg)](https://www.daangn.com/) 클론 코딩
 
-[![당근마켓](https://d1unjqcospf8gs.cloudfront.net/assets/home/base/header/logo-basic-24b18257ac4ef693c02233bf21e9cb7ecbf43ebd8d5b40c24d99e14094a44c81.svg)](https://www.daangn.com/)
 
 > HTML, CSS 연습을 위해서 자바스크립트가 웹사이트 구성에 중요하지 않은 웹사이트를 찾다가 앱으로만 항상 접속을 하여서 집에 있는 물건들이 하나 둘씩 없어지게 만든 앱의 웹사이트로는 방문할 일이 없었던 당근마켓 웹사이트를 선택하게 되었습니다.<br> - 웹사이트를 구성하면서 공통으로 적용된 태그는 CSS파일을 따로 분리하여 적용하였습니다.<br>- 자주 사용되는 마진이나 패딩 배경, 글자 색 부분을 클래스를 따로 만들어서 공통된 css파일에 넣고 간편하게 사용하였습니다.<br>- 자바스크립트를 완전히 쓰지 않기 위해서 데이터를 받아와서 구성해야 하는 부분은 임의로 구성 하였습니다.
